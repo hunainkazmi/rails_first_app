@@ -21,6 +21,3 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
-
-ruby on rails developer bhai jan 
